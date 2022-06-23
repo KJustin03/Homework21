@@ -45,6 +45,7 @@ This application can be run using the deployed Heroku link. To run on your compu
 <li>Run "npm run develop" to start the application's backend</li>
 <li>Go to http//:localhost:3001 to use locally, or http://localhost:3001/graphql to use GraphQL</li>
 </ul>
+
 ## Link
 
 Deployed App: https://booksearchengineky.herokuapp.com/
