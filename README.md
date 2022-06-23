@@ -39,13 +39,12 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Installation
 
 This application can be run using the deployed Heroku link. To run on your computer locally, follow these steps below:
-
-Clone this repository to your computer
-Run "npm install" in the command line of your terminal
-Run "npm run develop" to start the application's backend
-Go to http//:localhost:3001 to use locally, or http://localhost:3001/graphql to use GraphQL
-Contributors
-
+<ul>
+<li>Clone this repository to your computer</li>
+<li>Run "npm install" in the command line of your terminal</li>
+<li>Run "npm run develop" to start the application's backend</li>
+<li>Go to http//:localhost:3001 to use locally, or http://localhost:3001/graphql to use GraphQL</li>
+</ul>
 ## Link
 
 Deployed App: https://booksearchengineky.herokuapp.com/
